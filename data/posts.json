@@ -1,0 +1,20 @@
+[
+
+    {
+        "id": "sql-injection-guide",
+        "slug": "sql-injection-guide",
+        "title": "SQL Injection (SQLi) Explained: Types, Examples, Automation & Prevention",
+        "excerpt": "A complete guide to SQL Injection (SQLi): learn what it is, how attackers exploit it through error-based, UNION, blind, and out-of-band techniques, and how to defend against it with secure coding and best practices.",
+        "seoTitle": "SQL Injection (SQLi) Guide | Types, Examples & Prevention | 0xos4ma",
+        "seoDescription": "Learn SQL Injection (SQLi) in depth with a full mind map: error-based, UNION, blind, and out-of-band attacks. Includes proof-of-concept checklists, automation tools, labs, and best practices to secure your applications.",
+        "date": "2025-09-18",
+        "categories": ["web-penetration-testing"],
+        "contentFile": "sql-injection-guide/sql-injection-guide.md",
+        "contentPath": "posts/sql-injection-guide/sql-injection-guide.md",
+        "image": "posts/sql-injection-guide/images/cover.png",
+        "author": "0xos4ma",
+        "tags": ["SQL Injection", "SQLi, Cybersecurity", "Web Security", "Ethical Hacking", "Penetration Testing", "Web penetration testing" , "Bug Bounty", "OWASP", "Secure Coding", "Mind Map"]
+    }
+
+]
+
