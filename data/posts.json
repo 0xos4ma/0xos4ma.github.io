@@ -1,5 +1,19 @@
 [
-
+    {
+        "id": "xss-guide",
+        "slug": "xss-guide",
+        "title": "Cross‑Site Scripting (XSS) Explained: Types, Examples, Automation & Prevention",
+        "excerpt": "A practical guide to Cross‑Site Scripting (XSS): learn reflected, stored, and DOM XSS with examples, proof‑of‑concept checklists, automation tools, labs, and defence techniques for secure web apps.",
+        "seoTitle": "XSS Guide | Types, Examples & Prevention | 0xos4ma",
+        "seoDescription": "Master Cross‑Site Scripting (XSS) with concrete examples (reflected, stored, DOM), automation tips, POCs, labs, and best practices to harden web applications and report findings.",
+        "date": "2025-09-29",
+        "categories": ["web-penetration-testing"],
+        "contentFile": "xss-guide/xss-guide.md",
+        "contentPath": "posts/xss-guide/xss-guide.md",
+        "image": "posts/xss-guide/images/cover.png",
+        "author": "0xos4ma",
+        "tags": ["XSS", "Cross-Site Scripting", "Web Security", "Ethical Hacking", "Penetration Testing", "Bug Bounty", "OWASP", "Secure Coding", "DOM XSS", "Reflected XSS", "Stored XSS", "Mind Map"]
+    },
     {
         "id": "sql-injection-guide",
         "slug": "sql-injection-guide",
